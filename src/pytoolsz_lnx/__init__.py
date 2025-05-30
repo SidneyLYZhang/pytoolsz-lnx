@@ -18,12 +18,12 @@
 
 import pytoolsz_lnx.utils as utils
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 def version(println:bool = True, 
             output:bool = False) -> str|None:
     version_txt = [
-        "0.1.1 (2025-05-30 LINUX)",
+        "0.1.3 (2025-05-30 LINUX)",
         "Copyright (c) 2024 Sidney Zhang <zly@lyzhang.me>",
         "PyToolsz is licensed under Mulan PSL v2."
     ]
