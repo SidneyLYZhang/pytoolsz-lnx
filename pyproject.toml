@@ -1,6 +1,6 @@
 [project]
 name = "pytoolsz-lnx"
-version = "0.1.1"
+version = "0.1.2"
 description = "This is the Linux-optimized version of my Python toolkit, pytoolsz."
 authors = [
     { name = "Sidney Zhang", email = "liangyi@me.com" }

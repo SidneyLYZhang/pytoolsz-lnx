@@ -16,9 +16,9 @@
 # See the Mulan PSL v2 for more details.
 
 
-import pytoolsz.utils as utils
+import pytoolsz_lnx.utils as utils
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 def version(println:bool = True, 
             output:bool = False) -> str|None:
